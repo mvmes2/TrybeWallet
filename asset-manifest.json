@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mvmes2/TrybeWallet.git/Home/static/css/main.74ead237.chunk.css",
-    "main.js": "/mvmes2/TrybeWallet.git/Home/static/js/main.51359164.chunk.js",
-    "main.js.map": "/mvmes2/TrybeWallet.git/Home/static/js/main.51359164.chunk.js.map",
+    "main.js": "/mvmes2/TrybeWallet.git/Home/static/js/main.d33e3ad5.chunk.js",
+    "main.js.map": "/mvmes2/TrybeWallet.git/Home/static/js/main.d33e3ad5.chunk.js.map",
     "runtime-main.js": "/mvmes2/TrybeWallet.git/Home/static/js/runtime-main.ecc68097.js",
     "runtime-main.js.map": "/mvmes2/TrybeWallet.git/Home/static/js/runtime-main.ecc68097.js.map",
     "static/js/2.c8c89e4e.chunk.js": "/mvmes2/TrybeWallet.git/Home/static/js/2.c8c89e4e.chunk.js",
     "static/js/2.c8c89e4e.chunk.js.map": "/mvmes2/TrybeWallet.git/Home/static/js/2.c8c89e4e.chunk.js.map",
     "index.html": "/mvmes2/TrybeWallet.git/Home/index.html",
-    "precache-manifest.dcde98aee59a0a42e081ce17a191999a.js": "/mvmes2/TrybeWallet.git/Home/precache-manifest.dcde98aee59a0a42e081ce17a191999a.js",
+    "precache-manifest.9a01ccb2e346e5bd2a4a8fddbe93b6f2.js": "/mvmes2/TrybeWallet.git/Home/precache-manifest.9a01ccb2e346e5bd2a4a8fddbe93b6f2.js",
     "service-worker.js": "/mvmes2/TrybeWallet.git/Home/service-worker.js",
     "static/css/main.74ead237.chunk.css.map": "/mvmes2/TrybeWallet.git/Home/static/css/main.74ead237.chunk.css.map",
     "static/js/2.c8c89e4e.chunk.js.LICENSE.txt": "/mvmes2/TrybeWallet.git/Home/static/js/2.c8c89e4e.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.ecc68097.js",
     "static/js/2.c8c89e4e.chunk.js",
     "static/css/main.74ead237.chunk.css",
-    "static/js/main.51359164.chunk.js"
+    "static/js/main.d33e3ad5.chunk.js"
   ]
 }
