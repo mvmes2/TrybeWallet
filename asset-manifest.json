@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mvmes2/TrybeWallet.git/Home/static/css/main.74ead237.chunk.css",
+    "main.js": "/mvmes2/TrybeWallet.git/Home/static/js/main.51359164.chunk.js",
+    "main.js.map": "/mvmes2/TrybeWallet.git/Home/static/js/main.51359164.chunk.js.map",
+    "runtime-main.js": "/mvmes2/TrybeWallet.git/Home/static/js/runtime-main.ecc68097.js",
+    "runtime-main.js.map": "/mvmes2/TrybeWallet.git/Home/static/js/runtime-main.ecc68097.js.map",
+    "static/js/2.c8c89e4e.chunk.js": "/mvmes2/TrybeWallet.git/Home/static/js/2.c8c89e4e.chunk.js",
+    "static/js/2.c8c89e4e.chunk.js.map": "/mvmes2/TrybeWallet.git/Home/static/js/2.c8c89e4e.chunk.js.map",
+    "index.html": "/mvmes2/TrybeWallet.git/Home/index.html",
+    "precache-manifest.dcde98aee59a0a42e081ce17a191999a.js": "/mvmes2/TrybeWallet.git/Home/precache-manifest.dcde98aee59a0a42e081ce17a191999a.js",
+    "service-worker.js": "/mvmes2/TrybeWallet.git/Home/service-worker.js",
+    "static/css/main.74ead237.chunk.css.map": "/mvmes2/TrybeWallet.git/Home/static/css/main.74ead237.chunk.css.map",
+    "static/js/2.c8c89e4e.chunk.js.LICENSE.txt": "/mvmes2/TrybeWallet.git/Home/static/js/2.c8c89e4e.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/mvmes2/TrybeWallet.git/Home/static/media/logo.111b2e51.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecc68097.js",
+    "static/js/2.c8c89e4e.chunk.js",
+    "static/css/main.74ead237.chunk.css",
+    "static/js/main.51359164.chunk.js"
+  ]
+}
